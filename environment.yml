@@ -11,4 +11,5 @@ dependencies:
   - numexpr
   - scikit-learn
   - pycrs
+  - matplotlib
 prefix: C:\Users\hansa\.conda\envs\pcraster37
