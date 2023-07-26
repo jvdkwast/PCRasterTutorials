@@ -1,9 +1,8 @@
-name: pcraster37
+name: pcraster44
 channels:
   - defaults
 dependencies:
   - pcraster
-  - python=3.7
   - gdal
   - jupyter
   - xlrd
@@ -12,4 +11,4 @@ dependencies:
   - scikit-learn
   - pycrs
   - matplotlib
-prefix: C:\Users\hansa\.conda\envs\pcraster37
+prefix: C:\Users\hansa\.conda\envs\pcraster44
